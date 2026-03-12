@@ -1,0 +1,36 @@
+# MATLAB temporary files
+
+*.asv
+*.log
+*.mat
+
+# Simulink generated files
+
+*.slxc
+*.slxf
+*.mex*
+*.mdl
+*.slx
+
+# Editor / IDE files
+
+.vscode/
+.idea/
+
+# System files
+
+.DS_Store
+Thumbs.db
+
+# Data / outputs (adatta alle tue cartelle grandi)
+
+data/
+outputs/
+tmp/
+temp/
+
+# Optional: cache or backup folders
+
+*.bak
+*.old
+*.tmp
